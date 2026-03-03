@@ -1,4 +1,4 @@
-# 4. The Qubic Capital Solution
+# The Qubic Capital Solution
 
 **Smaller investors pool their resources to invest collectively**, creating an investment structure that enables access to opportunities that might be out of reach individually. By joining forces, these investors diversify their investments and share potential returns.
 
