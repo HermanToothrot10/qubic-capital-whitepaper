@@ -1,4 +1,4 @@
-# 2. Smart Contracts in Qubic
+# Smart Contracts in Qubic
 
 Smart Contracts are blockchain-based, self-acting protocols that activate when specified code criteria are met. They represent one of the core applications of blockchain technology. Qubic introduces its own implementation of Smart Contracts, combining efficiency and security within its protocol.
 
