@@ -1,4 +1,4 @@
-# 9. Long-Term Alignment
+# Long-Term Alignment
 
 Qubic Capital is structured to align governance, capital formation, and revenue generation under a single coordinated framework.
 
