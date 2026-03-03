@@ -1,4 +1,4 @@
-# 5. Strategic Vision
+# Strategic Vision
 
 Qubic Capital positions itself as the **benchmark investment vehicle** within the Qubic ecosystem, serving as the primary gateway to diversified, ecosystem-wide exposure. By allocating capital across multiple revenue-generating Smart Contracts and strategic initiatives, it operates as an ETF-like structure that provides systemic participation in the growth of the ecosystem.
 
