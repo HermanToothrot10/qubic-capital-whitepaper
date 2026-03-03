@@ -1,4 +1,4 @@
-# 1. Introduction
+# Introduction
 
 Qubic Capital enables everyone, regardless of the size of their portfolio, to **own shares in smart contracts while maintaining diversification**. Through this project, members have the opportunity to participate in Qubic’s IPO, an event typically reserved for the wealthiest investors, and to become co-owners of an extensive portfolio, the largest available, of shares representing the entire Qubic ecosystem.
 
