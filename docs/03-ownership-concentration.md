@@ -1,4 +1,4 @@
-# 3. Ownership Concentration in the Qubic Ecosystem
+# Ownership Concentration in the Qubic Ecosystem
 
 In many emerging ecosystems, ownership of scarce, revenue-generating assets tends to become concentrated among a limited number of participants.
 
