@@ -1,6 +1,6 @@
-# 7. Tokenomics
+# Tokenomics
 
-## 7.1 Supply
+## Supply
 
 The total maximum supply of $QCAP equals **21,000,000 tokens**, of which **3,000,000 tokens** form part of the reserve.
 
@@ -12,11 +12,11 @@ Each new issuance is tied to a defined capital allocation plan, typically partic
 
 This mechanism prevents economic dilution. **When new tokens are issued, the increase in supply is matched by a corresponding increase in underlying portfolio assets.** Token issuance therefore represents capitalization of new assets rather than redistribution of existing value, maintaining alignment between circulating supply and intrinsic portfolio value per token.
 
-## 7.2 Reserve
+## Reserve
 
 The reserved allocation serves strategic purposes such as ecosystem alignment, incentives, partnerships, or long-term development. The specific use of the reserve is determined by holders through proposals and votes in QVAULT.
 
-## 7.3 Revenue Distribution
+## Revenue Distribution
 
 Revenue distribution is structured as follows:
 
@@ -25,7 +25,7 @@ Revenue distribution is structured as follows:
 
 Revenue generated from the assets held by Qubic Capital is redistributed directly in $QUBIC. Redistribution occurs at the end of each epoch, on Wednesday at 12:00 UTC, and is made to holders existing at the end of the epoch in proportion to their eligible balance.
 
-## 7.4 Portfolio Valuation Framework
+## Portfolio Valuation Framework
 
 Qubic Capital maintains a structured and transparent valuation framework for its underlying portfolio.
 
