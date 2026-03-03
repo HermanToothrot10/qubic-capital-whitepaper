@@ -35,12 +35,12 @@ extra:
   
 nav:
   - Home: index.md
-  - 1. Introduction: 01-introduction.md
-  - 2. Smart Contracts in Qubic: 02-smart-contracts-in-qubic.md
-  - 3. Ownership Concentration: 03-ownership-concentration.md
-  - 4. The Qubic Capital Solution: 04-the-qubic-capital-solution.md
-  - 5. Strategic Vision: 05-strategic-vision.md
-  - 6. Governance: 06-governance.md
-  - 7. Tokenomics: 07-tokenomics.md
-  - 8. How to Buy $QCAP: 08-how-to-buy-qcap.md
-  - 9. Long-Term Alignment: 09-long-term-alignment.md
+  - Introduction: 01-introduction.md
+  - Smart Contracts in Qubic: 02-smart-contracts-in-qubic.md
+  - Ownership Concentration: 03-ownership-concentration.md
+  - The Qubic Capital Solution: 04-the-qubic-capital-solution.md
+  - Strategic Vision: 05-strategic-vision.md
+  - Governance: 06-governance.md
+  - Tokenomics: 07-tokenomics.md
+  - How to Buy $QCAP: 08-how-to-buy-qcap.md
+  - Long-Term Alignment: 09-long-term-alignment.md
