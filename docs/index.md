@@ -1,6 +1,6 @@
 <div class="qc-hero">
   <h1>Qubic Capital – Whitepaper</h1>
-  <p><strong>Whitepaper & Structural Documentation</strong></p>
+  <p><strong>Whitepaper &amp; Structural Documentation</strong></p>
 
   <p>
   This document provides a clear and structured overview of Qubic Capital,
