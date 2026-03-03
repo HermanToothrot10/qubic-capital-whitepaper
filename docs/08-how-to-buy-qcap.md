@@ -1,8 +1,8 @@
-# 8. How to Buy $QCAP
+# How to Buy $QCAP
 
 $QCAP is acquired through two complementary markets.
 
-## 8.1 Primary Market
+## Primary Market
 
 In the Primary Market, new $QCAP tokens are issued directly by Qubic Capital through governance-approved fundraising rounds executed in QVAULT.
 
@@ -17,7 +17,7 @@ These parameters are decided collectively by eligible voters.
 
 Primary rounds are conducted at a fixed price defined in the proposal, ensuring equal conditions for all participants.
 
-## 8.2 Secondary Market
+## Secondary Market
 
 $QCAP is also acquired through peer-to-peer trading or QX (Qubic Exchange).
 
