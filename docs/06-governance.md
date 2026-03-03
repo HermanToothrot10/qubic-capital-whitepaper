@@ -1,6 +1,6 @@
-# 6. Governance
+# Governance
 
-## 6.1 On-Chain Governance
+## On-Chain Governance
 
 Qubic Capital operates under a **decentralized governance** framework executed through **QVAULT**.
 
@@ -16,7 +16,7 @@ Voting rights are exercised through locked $QCAP in QVAULT.
 
 Each proposal follows predefined validation rules enforced by QVAULT, including quorum and majority requirements. Execution occurs automatically once the approval conditions are met.
 
-## 6.2 Representatives
+## Representatives
 
 In addition to the on-chain governance layer, Qubic Capital designates **seven representatives elected by the community**. These representatives serve as administrators of the official Discord server and act as public-facing coordinators of Qubic Capital within the broader Qubic ecosystem.
 
