@@ -20,7 +20,7 @@ The reserved allocation serves strategic purposes such as ecosystem alignment, i
 
 Revenue distribution is structured as follows:
 
-- **3% goes to QVAULT smart contract shareholders, immutable**
+- **3% goes to QVAULT smart contract shareholders, immutable**. QVAULT shareholders also receive the full proposal creation fee, which is added to the regular distribution cycle.
 - The remaining 97% is allocated among distribution to QCAP holders, the reinvestment fund, and QCAP burn, not available before 1 January 2029
 
 Revenue generated from the assets held by Qubic Capital is redistributed directly in $QUBIC. Redistribution occurs at the end of each epoch, on Wednesday at 12:00 UTC, and is made to holders existing at the end of the epoch in proportion to their eligible balance.
