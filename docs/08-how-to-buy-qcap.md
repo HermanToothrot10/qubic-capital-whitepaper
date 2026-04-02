@@ -4,7 +4,7 @@ $QCAP is acquired through two complementary markets.
 
 ## Primary Market
 
-In the Primary Market, new $QCAP tokens are issued directly by Qubic Capital through governance-approved fundraising rounds executed in QVAULT.
+In the Primary Market, new $QCAP tokens are issued directly by Qubic Capital through governance-approved fundraising rounds executed in QVAULT at https://www.qubic-capital.org/
 
 Each round specifies:
 
