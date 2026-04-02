@@ -2,7 +2,7 @@
 
 ## On-Chain Governance
 
-Qubic Capital operates under a **decentralized governance** framework executed through **QVAULT**.
+Qubic Capital operates under a **decentralized governance** framework executed through **QVAULT** at https://www.qubic-capital.org/
 
 All strategic and operational decisions are implemented through predefined proposal types within QVAULT, including but not limited to:
 
